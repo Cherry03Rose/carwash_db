@@ -1,0 +1,50 @@
+Array
+(
+    [name] => Roselyn D
+    [email] => roro@gmail.com
+    [contact_number] => 09785677456
+    [plate_number] => 7867
+    [preferred_date] => 2025-08-09
+    [service_needed] => Array
+        (
+            [0] => 1
+        )
+
+    [car_size] => medium
+    [total_price] => 250
+    [selected_services] => ["1"]
+)
+Array
+(
+    [name] => Rochelle Reyes
+    [email] => chello@gmail.com
+    [contact_number] => 09867567656
+    [plate_number] => 6542
+    [preferred_date] => 2025-08-09
+    [service_needed] => Array
+        (
+            [0] => 1
+        )
+
+    [car_size] => medium
+    [total_price] => 250
+    [selected_services] => ["1"]
+)
+Array
+(
+    [name] => jelo B
+    [email] => je@gmail.com
+    [contact_number] => 09239828371
+    [plate_number] => 8976
+    [preferred_date] => 2025-08-09
+    [service_needed] => Array
+        (
+            [0] => 2
+        )
+
+    [car_size] => medium
+    [total_price] => 350.00
+    [selected_services] => ["2"]
+
+    
+)

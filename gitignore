@@ -1,0 +1,29 @@
+# Environment
+.env
+config.local.php
+
+# Dependencies
+vendor/
+composer.phar
+
+# Logs
+*.log
+debug.log
+error_log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+temp/
+
+# Session files (if stored locally)
+sess_*
